@@ -15,4 +15,4 @@
   <img height='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />&nbsp;&nbsp;
   <img height='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />&nbsp;&nbsp;
 ## My CodeWars progress:
-<img src='https://www.codewars.com/users/makmatvey/badges/large'>
+<a href= "https://www.codewars.com/users/makmatvey"><img src='https://www.codewars.com/users/makmatvey/badges/large'></a>
